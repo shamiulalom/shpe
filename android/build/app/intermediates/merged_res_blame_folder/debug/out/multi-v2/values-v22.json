@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mdshamiulalomsagor/Downloads/ALL PROJECT/ECOMMERCE/shopo multivendor ecommerce with user app v3.8.0/User app/shopo_source_code_v3.7.0/android/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/mdshamiulalomsagor/.gradle/caches/transforms-3/8db7df35bf8ee86762fa7a1540429b52/transformed/appcompat-1.4.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

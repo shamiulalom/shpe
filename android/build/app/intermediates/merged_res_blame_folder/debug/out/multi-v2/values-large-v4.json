@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mdshamiulalomsagor/Downloads/ALL PROJECT/ECOMMERCE/shopo multivendor ecommerce with user app v3.8.0/User app/shopo_source_code_v3.7.0/android/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/mdshamiulalomsagor/.gradle/caches/transforms-3/d64cf7408803665ed75d7ff01f89684a/transformed/material-1.6.0/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,177,311,752",
+                        "endLines": "2,3,9,15",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "172,306,747,1190"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "752,874,1008,1449",
+                        "endLines": "11,12,18,24",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "869,1003,1444,1887"
+                    }
+                },
+                {
+                    "source": "/Users/mdshamiulalomsagor/.gradle/caches/transforms-3/8db7df35bf8ee86762fa7a1540429b52/transformed/appcompat-1.4.1/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        }
+    ]
+}

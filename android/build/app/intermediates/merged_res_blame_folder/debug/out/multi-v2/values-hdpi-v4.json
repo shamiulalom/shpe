@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mdshamiulalomsagor/Downloads/ALL PROJECT/ECOMMERCE/shopo multivendor ecommerce with user app v3.8.0/User app/shopo_source_code_v3.7.0/android/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/mdshamiulalomsagor/.gradle/caches/transforms-3/3d0ba44b5e5711bc1548871b12d065a0/transformed/jetified-payments-core-20.4.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "/Users/mdshamiulalomsagor/.gradle/caches/transforms-3/8db7df35bf8ee86762fa7a1540429b52/transformed/appcompat-1.4.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endLines": "7",
+                        "endColumns": "13",
+                        "endOffsets": "384"
+                    }
+                }
+            ]
+        }
+    ]
+}
